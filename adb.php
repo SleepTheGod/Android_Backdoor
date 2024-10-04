@@ -1,6 +1,6 @@
 <?php
 // ADB Backdoor Android
-// Made by [Your Name Here]
+// Made by ClumsyLulz
 // Define the command to execute
 $command = "adb shell ls /sdcard/";
 
